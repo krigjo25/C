@@ -2,7 +2,7 @@
 
 ## About Password
 
-A CS program to ensure the user creates a valid password
+Implements a CS program to ensure the user creates a password which meets the requirements
 
 ###  Disclamers
 

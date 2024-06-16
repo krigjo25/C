@@ -2,7 +2,8 @@
 
 ## About Debug
 
-The code was created to get more familiar with C syntax, and debug the code
+
+Implements a CS program to get more familiar with the syntax of C
 
 ###  Disclamers
 

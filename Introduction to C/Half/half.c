@@ -15,29 +15,29 @@ float half(float bill, float tax, int tip);
 int main(void)
 {
     //  Initialize variables
-    float bill_amount = get_float("Bill before tax and tip: ");
-    float tax_percent = get_float("Sale Tax Percent: ");
-    int tip_percent = get_int("Tip percent: ");
+    float bill = get_float("Bill before tax and tip: ");
+    float tax = get_float("Sale Tax Percent: ");
+    int tip = get_int("Tip percent: ");
 
     //  Print value
-    printf("$%.2f", half(bill_amount, tax_percent, tip_percent));
+    printf(" Bill $%.2f.\nTip : %d.\nTax prercent $%.2f. \nTotal bill : $%.2f", bill, tax, tip, half(bill, tax, tip));
 }
 
-float half(float bill, float tax, int tip)
+float half(float b, float t, int n)
 {
     //  Calculating the taxes
-    tax *= bill / 100;
+    t *= b / 100;
 
     //  Adding taxes into the bill
-    bill += tax;
+    b += t;
 
     //  Calculating the tip
-    float n = tip * bill / 100.0;
+    float n = n * b / 100.0;
 
     //  Adding the tip into the bill
-    bill += n;
-    bill /= 2;
+    b += n;
+    b /= 2;
 
     //  Returing the result
-    return bill;
+    return b;
 }

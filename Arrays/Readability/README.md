@@ -5,7 +5,7 @@
 Implements a CS program to calculate the average reading rate,
 by using the formula of Coleman Liau.
 
-Created as a project for CS50's Challenge
+Originally this project was created as an assignment at xCS50
 
 ##  Math formula
 

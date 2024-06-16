@@ -2,8 +2,12 @@
 
 ## About Blub
 
-Implements a CS program to simulate light
-Created as a project for CS50's Challenge
+Implements a CS program to simulate lights using binary values
+
+The program converts the prompted string into  decimals then converts decimals into binary,
+and then outputting on / off light blubs
+
+Originally this project was created as an assignment at xCS50
 
 ### Date of Creation / finished
 

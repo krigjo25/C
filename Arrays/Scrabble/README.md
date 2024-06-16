@@ -3,7 +3,8 @@
 ## About Scrabble
 
 Implements a CS program simulate the game Scrabble
-Created as a project for CS50's Challenge
+
+Originally this project was created as an assignment at xCS50
 
 ### Date created / finished
 

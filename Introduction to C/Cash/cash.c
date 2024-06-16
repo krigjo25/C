@@ -7,7 +7,7 @@
     Date re-Submited : N/A
 
 ******************************************************************************/
-//  include libraries
+//  Import responsories
 #include <cs50.h>
 #include <stdio.h>
 
@@ -19,9 +19,10 @@ int calculate_pennies(int cents);
 
 int main(void)
 {
-    int cents = get_cents(); // Ask how many cents the customer is owed
+    // Prompt the costumer for cents owed
+    int cents = get_cents(); 
 
-    // Calculate the number of quarters to give the customer
+    //  Calculate the number of quarters to give the customer
     int quarters = calculate_quarters(cents);
     cents = cents - quarters * 25;
 
@@ -45,20 +46,12 @@ int main(void)
 
 int get_cents(void)
 {
-    /*
-        #   Author : Krigjo25
-        #   Date : 01-23
-
-        #   Prompts the user for how many cents and returns the number as an integer
-
-    */
-
-    // Declareing variables
+    //  Declare variable cent
     int cents;
 
-    // Fetch the int from the user while c is less than 0
     do
     {
+        //  Prompting the user for cents
         cents = get_int("How many number of cents :");
     }
 

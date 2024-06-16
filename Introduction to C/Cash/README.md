@@ -2,7 +2,10 @@
 
 ## About Cash
 
-Create a CS program for automate cash-back.
+Implements a CS program to automate a refound
+the program calculates how many Quarters, Dimes
+Nickels & Pennys which the customer is owed
+
 Created as a project for CS50's Challenge
 
 ##  Date created / finished

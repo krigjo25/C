@@ -3,8 +3,13 @@
 ## About Pularity
 
 Implements a CS program to simulate a voting as Pularity
-Using Linear search Algorithm to calculate to find the candidate with highest vote
-!Reason
+
+Linear search Algorithm was used to find the candidate which had the highest vote.
+Even if Linear Search Algorithm has a BC at log O(n) and the element could be hidden in the last index,
+Its well suited for small datasets, and it doesnt require more memory to be implemented,
+it would mean the algorithm doesn't need to be sorted in any way.
+
+Originally this project was created as an assignment at xCS50
 
 ### Date of Creation / finished
 N/A

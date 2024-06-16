@@ -2,8 +2,8 @@
 
 ## About Debug
 
-A CS program that calculates the half of a bill
-Using basic math
+A CS program that calculates the taxes, TIP and the total bill
+Using arithmetic operations.
 
 ###  Disclamers
 

@@ -145,12 +145,8 @@ bool vote(int voter, int rank, string name)
     // Looping through the counted voter
     for (int i = 0; i < candidate_count; i++)
     {
-
-        //  Regular expression to ensure name and candidate match
-        int match = strcmp(name, candidates[i].name);
-
         // Ensure the match
-        if (match == 0)
+        if (strcmp(name, candidates[i].name) == 0)
         {
             //  Update preferences
             preferences[voter][rank] = i;
@@ -205,7 +201,7 @@ int find_min(void)
     //  Initializing minimal variable
     int min = 0;
 
-    // Looping through every candidate
+    // Linear search to find min
     for (int i = 0; i < candidate_count; i++)
     {
         //  Ensuring the candidate is not eliminated and ensuring the candidate's vote is greater
@@ -246,14 +242,10 @@ bool is_tie(int min)
 
 void eliminate(int min)
 {
-    /*
-        Eliminate the candidate (or candidates) with minimum votes.
-    */
-
     //  Looping through candidates
     for (int i = 0; i < candidate_count; i++)
     {
-        //  Ensure the candidates vote is the minimum
+        //  Ensure the candidates vote is at the minimum
         if (candidates[i].votes == min)
         {
             candidates[i].eliminated = true;
