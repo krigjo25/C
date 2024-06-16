@@ -1,0 +1,23 @@
+# Smiley
+
+## About Smiley
+
+Implements a CS program to simulate a voting as Pularity
+
+In this assignment the implemetation details stated we had to change the color of the pixels.
+So the document helpers.c is the only code document which was created.
+
+Base program was created by xCS50
+Originally this project was created as an assignment at xCS50
+
+### Date of Creation / finished
+N/A
+
+###  Disclamers
+
+This code snippet may be used to debug
+A student's code, but don't copy it,
+Please be aware, and respect the [academic honesty policy](https://cs50.harvard.edu/x/2023/honesty/).
+
+Sincerely,
+@krigjo25
