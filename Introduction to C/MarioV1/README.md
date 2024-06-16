@@ -3,7 +3,8 @@
 ## About Mario V1
 
 Implements a CS program that simulates blocks in mario.
-Created as a project for xCS50's Challenge.
+
+Originally this project was created as an assignment at xCS50
 
 ## Date of Creation / finished
 

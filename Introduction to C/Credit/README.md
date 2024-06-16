@@ -3,7 +3,7 @@
 ## About Credit
 
 Implements a CS program to check credit cards.
-Created as a project for CS50's Challenge | Optionally.
+Originally this project was created as an assignment at xCS50 | Optionally.
 
 In the project the Luhn Algorithm was choosed as its a known modulo algorithm to handle Credit cards.
 

@@ -6,8 +6,8 @@ Implements a CS program to simulate a voting as Pularity
 
 Linear search Algorithm was used to find the candidate which had the highest vote.
 Even if Linear Search Algorithm has a BC at log O(n) and the element could be hidden in the last index,
-Its well suited for small datasets, and it doesnt require more memory to be implemented,
-it would mean the algorithm doesn't need to be sorted in any way.
+Its well suited for small datasets, and doesnt require additional memory as the content doesn't need to be sorted.
+
 
 Originally this project was created as an assignment at xCS50
 

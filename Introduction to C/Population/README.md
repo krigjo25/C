@@ -3,7 +3,8 @@
 ## About Population
 
 Implements a CS program that simulates population growth over time.
-Created as a project for xCS50's Challenge.
+
+Originally this project was created as an assignment at xCS50
 
 ##  Date of Creation / finished
 

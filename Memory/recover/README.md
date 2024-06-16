@@ -1,17 +1,16 @@
-# Cash
+# Recover
 
-## About Cash
+## About Recover
 
-Implements a CS program to automate a refound
-the program calculates how many Quarters, Dimes
-Nickels & Pennys which the customer is owed
+Implements a CS program to Recover a corrupted Image
 
+recover_linkedlist created by xCS50
 Originally this project was created as an assignment at xCS50
 
-##  Date created / finished
+### Date of Creation / finished
 
-Wedensday January 4, 2023
-Wednesday, January 4, 2023 9:06 AM CET
+November 15, 2023
+Friday, November 17, 2023 9:34 PM CEST
 
 ###  Disclamers
 

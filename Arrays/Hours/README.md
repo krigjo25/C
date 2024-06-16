@@ -2,7 +2,7 @@
 
 ## About hours
 
-A CS Program to calculate average hours based on weeks
+Implements CS Program to calculate average hours based on weeks
 
 
 ###  Disclamers
