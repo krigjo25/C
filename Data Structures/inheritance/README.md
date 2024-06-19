@@ -1,17 +1,16 @@
-# Blub
+# Inheritance
 
-## About Blub
+## About Inheritance
 
-Implements a CS program to simulate lights using binary values
+Implements a CS simulation program to Inherit Alleles to children
 
-The program converts the prompted string into  decimals then converts decimals into binary,
-and then outputting on / off light blubs
 
 Originally this project was created as an assignment at xCS50
 
 ### Date of Creation / finished
 
-Monday, March 27, 2023 7:11 PM CET
+November 15, 2023
+Friday, November 17, 2023 9:34 PM CEST
 
 ###  Disclamers
 
