@@ -19,10 +19,6 @@ assignment at xCS50 - Introduction to Computer Science.
 -   S = sentence / x words * 100
 -   CLI = (L - S - 15.8)
 
-### Date created / finished
-
-Tuesday, January 10, 2023
-Wednesday, January 11, 2023 11:56 AM CET
 
 ###  Disclamers
 
