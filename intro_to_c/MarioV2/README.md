@@ -5,11 +5,9 @@
 Implements a CS program that simulates blocks in mario,
 a bit more advanced than V1.
 
-Originally this project was created as an assignment at xCS50 | Optionally
 
-##  Date of creation / finished
-
-February 09, 2023
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
 
 ###  Disclamers
 

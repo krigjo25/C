@@ -3,13 +3,12 @@
 ## About Credit
 
 Implements a CS program to check credit cards.
-Originally this project was created as an assignment at xCS50 | Optionally.
 
 In the project the Luhn Algorithm was choosed as its a known modulo algorithm to handle Credit cards.
 
-##  Creation date
 
-February 2, 2023
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. | Optionally.
 
 ###  Disclamers
 

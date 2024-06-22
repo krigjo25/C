@@ -4,12 +4,9 @@
 
 Implements a CS program simulate the game Scrabble
 
-Originally this project was created as an assignment at xCS50
 
-### Date created / finished
-
-January, 2023
-Tuesday, January 10, 2023 3:14 PM CET
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science.
 
 ###  Disclamers
 

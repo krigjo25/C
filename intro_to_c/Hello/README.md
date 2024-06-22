@@ -3,12 +3,10 @@
 ## About Hello
 
 Implements a CS program  to print a promted string
-Created as a project for CS50's Challenge.
 
-## Date of Creation / finished
 
-Wedensday, January 4, 2023
-Wednesday, January 4, 2023 9:06 AM CET
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
 
 ###  Disclamers
 

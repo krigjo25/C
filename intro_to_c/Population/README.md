@@ -4,12 +4,9 @@
 
 Implements a CS program that simulates population growth over time.
 
-Originally this project was created as an assignment at xCS50
 
-##  Date of Creation / finished
-
-Wedensday January 04, 2023
-Wednesday, January 4, 2023 8:54 AM CET
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
 
 ##  Credits
 

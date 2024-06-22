@@ -5,7 +5,9 @@
 Implements a CS program to calculate the average reading rate,
 by using the formula of Coleman Liau.
 
-Originally this project was created as an assignment at xCS50
+
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science.
 
 ##  Math formula
 

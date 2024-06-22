@@ -2,7 +2,6 @@
 
 ## About Debug
 
-
 Implements a CS program to get more familiar with the syntax of C
 
 ###  Disclamers

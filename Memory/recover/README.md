@@ -5,12 +5,13 @@
 Implements a CS program to Recover a corrupted Image
 
 recover_linkedlist created by xCS50
-Originally this project was created as an assignment at xCS50
 
-### Date of Creation / finished
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
 
-November 15, 2023
-Friday, November 17, 2023 9:34 PM CEST
+##  Credits
+
+[recover_linkedlist - by xCS50]()
 
 ###  Disclamers
 

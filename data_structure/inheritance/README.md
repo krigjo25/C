@@ -5,12 +5,8 @@
 Implements a CS simulation program to Inherit Alleles to children
 
 
-Originally this project was created as an assignment at xCS50
-
-### Date of Creation / finished
-
-November 15, 2023
-Friday, November 17, 2023 9:34 PM CEST
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science.
 
 ###  Disclamers
 

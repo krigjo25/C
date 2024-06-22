@@ -1,6 +1,6 @@
 # Smiley
 
-## About Smiley
+## About this project
 
 Implements a CS program to simulate a voting as Pularity
 
@@ -8,10 +8,13 @@ In this assignment the implemetation details stated we had to change the color o
 So the document helpers.c is the only code document which was created.
 
 Base program was created by xCS50
-Originally this project was created as an assignment at xCS50
 
-### Date of Creation / finished
-N/A
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
+
+##  Credits
+
+[recover_linkedlist - by xCS50]()
 
 ###  Disclamers
 

@@ -6,7 +6,8 @@ Implements a CS program to filter an image. In this assignment the implemetation
 
 So the document <strong>helper.c</strong> is the only code document which was created. Otherwise, the base was created by xCS50.
 
-Originally this project was created as an assignment at xCS50
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science. 
 
 ###  Disclamers
 

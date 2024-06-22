@@ -6,12 +6,8 @@ Implements a CS program to automate a refound
 the program calculates how many Quarters, Dimes
 Nickels & Pennys which the customer is owed
 
-Originally this project was created as an assignment at xCS50
-
-##  Date created / finished
-
-Wedensday January 4, 2023
-Wednesday, January 4, 2023 9:06 AM CET
+Originally this project was created as an
+assignment at xCS50 - Introduction to Computer Science.
 
 ###  Disclamers
 
