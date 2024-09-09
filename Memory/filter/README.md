@@ -8,9 +8,7 @@ So the document <strong>helper.c</strong> is the only code document which was cr
 
 Originally this project was created as an
 assignment at xCS50 - Introduction to Computer Science. 
-
-### What was learned in the project
-
+        
 ###  Disclamers
 
 This code snippet may be used to debug
