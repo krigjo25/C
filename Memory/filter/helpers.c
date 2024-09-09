@@ -39,7 +39,7 @@ void grayscale(int height, int width, RGBTRIPLE image[height][width])
             image[i][j].rgbtGreen = temp;
             image[i][j].rgbtBlue = temp;
 
-            //  Check if the rgb is above 255
+            //  Ensure rgb is greater than 255
             if (image[i][j].rgbtRed > 255)
             {
                 image[i][j].rgbtRed = 255;
@@ -242,10 +242,6 @@ void blur(int height, int width, RGBTRIPLE image[height][width])
                     }
                 }
 
-                // Edges n / 6
-                else
-                {
-                }
             }
 
             //  Checking the edges of the image
